@@ -28,7 +28,7 @@ and learning how real-world security tools work.
 `OpenVAS` `Snort` `Suricata`
 
 ### Operating Systems
-`Linux` `Kali Linux` `Ubuntu`
+`Linux` `Kali Linux` `Ubuntu` `Windows` 
 
 ### Programming
 `Python` `Java` `SQL`
@@ -40,7 +40,7 @@ and learning how real-world security tools work.
 
 ## Featured Projects
 
-### 🔎 Linux SOC Lab — Splunk
+### Linux SOC Lab — Splunk
 A hands-on Security Operations Center lab focused on Linux
 authentication monitoring, log analysis, suspicious activity
 investigation, and security event detection.
