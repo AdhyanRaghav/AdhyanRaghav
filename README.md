@@ -64,9 +64,9 @@ mount activity and inactivity.
 
 ## Certifications
 
-- Google Cybersecurity Professional Certificate
-- TryHackMe — [Add completed paths/certificates]
-- Ethical Hacking Training — Internshala
+- Google Cybersecurity Professional Certificate- https://coursera.org/share/39145404342d7795cc3264fa830b84c7
+- TryHackMe SOC L1- In Progress
+- Ethical Hacking Training — Internshala- https://trainings.internshala.com/view_certificate/25igfd4p6e1/326cjg5mys6/
 
 ---
 
