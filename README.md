@@ -19,7 +19,7 @@ I'm a Computer Science student focused on cybersecurity, security operations, Li
 
 **Security & Monitoring**
 
-`Splunk` `Wazuh` `Wireshark` `Burp Suite` `Nmap` `Metasploit` `OpenVAS` `Snort` `Suricata`
+`Splunk` `Wireshark` `Burp Suite` `Nmap` `Metasploit` `OpenVAS` `Snort` `Suricata`
 
 **Operating Systems**
 
