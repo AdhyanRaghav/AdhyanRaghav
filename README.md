@@ -53,7 +53,7 @@ A Python-based tool for monitoring file integrity on Linux systems.
 - Tracks metadata such as file size, modification time, and inode information.
 - Monitors permissions and ownership details.
 
-### [Mini Vulnerability Scanner] (https://github.com/AdhyanRaghav/mini-vulnerability-scanner)
+### Mini Vulnerability Scanner (https://github.com/AdhyanRaghav/mini-vulnerability-scanner)
 
 A Python-based web vulnerability scanner for basic security checks.
 
